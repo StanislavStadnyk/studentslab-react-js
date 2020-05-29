@@ -57,7 +57,7 @@ const App = () => {
   };
 
   useEffect(() => {
-    getData('/data.json');
+    getData('studentslab-react-js/data.json');
   }, []);
 
   return (
