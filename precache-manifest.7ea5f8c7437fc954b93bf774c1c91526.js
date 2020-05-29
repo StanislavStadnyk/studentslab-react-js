@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "375522416165613686da9df556a170e9",
+    "revision": "5525e25d638a5d0ce981ab2a88d76cca",
     "url": "/studentslab-react-js/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/studentslab-react-js/static/css/2.b211811c.chunk.css"
   },
   {
-    "revision": "1e88aa0b84e10796db46",
-    "url": "/studentslab-react-js/static/css/main.cefeae20.chunk.css"
+    "revision": "f0e102664361e726f4bf",
+    "url": "/studentslab-react-js/static/css/main.160c0d27.chunk.css"
   },
   {
     "revision": "fff7e4aa3651fe36e283",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/studentslab-react-js/static/js/2.2245908a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1e88aa0b84e10796db46",
-    "url": "/studentslab-react-js/static/js/main.3a87928c.chunk.js"
+    "revision": "f0e102664361e726f4bf",
+    "url": "/studentslab-react-js/static/js/main.b0e18ff9.chunk.js"
   },
   {
     "revision": "311af3d144b8e5831d68",
