@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/studentslab-react-js/static/css/main.cefeae20.chunk.css",
+    "main.js": "/studentslab-react-js/static/js/main.0bc83380.chunk.js",
+    "main.js.map": "/studentslab-react-js/static/js/main.0bc83380.chunk.js.map",
+    "runtime-main.js": "/studentslab-react-js/static/js/runtime-main.66b12cfb.js",
+    "runtime-main.js.map": "/studentslab-react-js/static/js/runtime-main.66b12cfb.js.map",
+    "static/css/2.b211811c.chunk.css": "/studentslab-react-js/static/css/2.b211811c.chunk.css",
+    "static/js/2.2245908a.chunk.js": "/studentslab-react-js/static/js/2.2245908a.chunk.js",
+    "static/js/2.2245908a.chunk.js.map": "/studentslab-react-js/static/js/2.2245908a.chunk.js.map",
+    "index.html": "/studentslab-react-js/index.html",
+    "precache-manifest.9da2895829d1e1d3f3a19870b8d9c6a5.js": "/studentslab-react-js/precache-manifest.9da2895829d1e1d3f3a19870b8d9c6a5.js",
+    "service-worker.js": "/studentslab-react-js/service-worker.js",
+    "static/css/2.b211811c.chunk.css.map": "/studentslab-react-js/static/css/2.b211811c.chunk.css.map",
+    "static/css/main.cefeae20.chunk.css.map": "/studentslab-react-js/static/css/main.cefeae20.chunk.css.map",
+    "static/js/2.2245908a.chunk.js.LICENSE.txt": "/studentslab-react-js/static/js/2.2245908a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.66b12cfb.js",
+    "static/css/2.b211811c.chunk.css",
+    "static/js/2.2245908a.chunk.js",
+    "static/css/main.cefeae20.chunk.css",
+    "static/js/main.0bc83380.chunk.js"
+  ]
+}
