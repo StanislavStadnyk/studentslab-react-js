@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/studentslab-react-js/static/css/main.160c0d27.chunk.css",
-    "main.js": "/studentslab-react-js/static/js/main.be9d8c22.chunk.js",
-    "main.js.map": "/studentslab-react-js/static/js/main.be9d8c22.chunk.js.map",
+    "main.js": "/studentslab-react-js/static/js/main.34e0c5ec.chunk.js",
+    "main.js.map": "/studentslab-react-js/static/js/main.34e0c5ec.chunk.js.map",
     "runtime-main.js": "/studentslab-react-js/static/js/runtime-main.66b12cfb.js",
     "runtime-main.js.map": "/studentslab-react-js/static/js/runtime-main.66b12cfb.js.map",
     "static/css/2.b211811c.chunk.css": "/studentslab-react-js/static/css/2.b211811c.chunk.css",
     "static/js/2.2245908a.chunk.js": "/studentslab-react-js/static/js/2.2245908a.chunk.js",
     "static/js/2.2245908a.chunk.js.map": "/studentslab-react-js/static/js/2.2245908a.chunk.js.map",
     "index.html": "/studentslab-react-js/index.html",
-    "precache-manifest.7fe8a4ac9303d79b4f87cc9f33de2c31.js": "/studentslab-react-js/precache-manifest.7fe8a4ac9303d79b4f87cc9f33de2c31.js",
+    "precache-manifest.6205fba7f69052e18ee878d57e28139a.js": "/studentslab-react-js/precache-manifest.6205fba7f69052e18ee878d57e28139a.js",
     "service-worker.js": "/studentslab-react-js/service-worker.js",
     "static/css/2.b211811c.chunk.css.map": "/studentslab-react-js/static/css/2.b211811c.chunk.css.map",
     "static/css/main.160c0d27.chunk.css.map": "/studentslab-react-js/static/css/main.160c0d27.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.b211811c.chunk.css",
     "static/js/2.2245908a.chunk.js",
     "static/css/main.160c0d27.chunk.css",
-    "static/js/main.be9d8c22.chunk.js"
+    "static/js/main.34e0c5ec.chunk.js"
   ]
 }
