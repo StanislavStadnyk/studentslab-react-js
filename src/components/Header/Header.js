@@ -9,6 +9,7 @@ import {
   NavItem,
 } from 'reactstrap';
 import { NavLink } from 'react-router-dom';
+import { PROD_URL } from '../..//config';
 
 const Students = () => {
   const [isOpen, setIsOpen] = useState(false);
@@ -18,7 +19,7 @@ const Students = () => {
   return (
     <Navbar color='light' light expand='md' className='mb-5'>
       <Container>
-        <NavbarBrand href='/'>
+        <NavbarBrand href={`${PROD_URL}`}>
           <strong>StudentsLab</strong>
         </NavbarBrand>
 
@@ -27,12 +28,12 @@ const Students = () => {
         <Collapse isOpen={isOpen} navbar>
           <Nav className='mr-auto' navbar>
             <NavItem className='mr-3'>
-              <NavLink to='/' exact className='nav-link'>
+              <NavLink to={`${PROD_URL}`} exact className='nav-link'>
                 Home
               </NavLink>
             </NavItem>
             <NavItem className='mr-3'>
-              <NavLink to='/message' className='nav-link'>
+              <NavLink to={`${PROD_URL}/message`} className='nav-link'>
                 Send Message
               </NavLink>
             </NavItem>

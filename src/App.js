@@ -8,6 +8,7 @@ import {
 
 import { StudentsContainer, MessageContainer } from './pages/index';
 import { Header, Layout } from './components/index';
+import { PROD_URL } from './config';
 
 const App = () => {
   const [dataList, setDataList] = useState(null);
@@ -57,7 +58,7 @@ const App = () => {
   };
 
   useEffect(() => {
-    getData('studentslab-react-js/data.json');
+    getData(`${PROD_URL}/data.json`);
   }, []);
 
   return (
@@ -66,7 +67,7 @@ const App = () => {
 
       <Layout>
         <Switch>
-          <Route path='/' exact>
+          <Route path={`${PROD_URL}`} exact>
             <StudentsContainer
               data={dataList}
               editUser={handleEditUser}
@@ -75,12 +76,12 @@ const App = () => {
             />
           </Route>
 
-          <Route path='/message'>
+          <Route path={`${PROD_URL}/message`}>
             <MessageContainer data={dataList} sendMessage={handleSendMessage} />
           </Route>
 
           <Route path='*'>
-            <Redirect to='/' />
+            <Redirect to={`${PROD_URL}`} />
           </Route>
         </Switch>
       </Layout>
